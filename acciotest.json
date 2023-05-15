@@ -1,4 +1,4 @@
 {
-    "testRepo": "passing-handler-prop-testcases",
+    "testRepo": "passing-handler-prop-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
